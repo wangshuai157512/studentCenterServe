@@ -1,0 +1,690 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>年关将至，快来测测2019你的身价值多少万吧~</title>
+<meta name="description" content="要不要发给老板呢……"/>
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'/>
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="0" />
+<link rel="stylesheet" type="text/css" href="https://cdn.bootcss.com/Swiper/4.1.6/css/swiper.min.css">
+<script src="https://cdn.bootcss.com/Swiper/4.1.6/js/swiper.min.js"></script>
+<link rel="stylesheet" href="css/base.css?20041">
+<script src="https://cdn.bootcss.com/jquery/1.11.2/jquery.min.js"></script>
+<script src="https://res.wx.qq.com/open/js/jweixin-1.4.0.js"></script>
+<script>
+(function (win,doc){
+    if (!win.addEventListener) return;
+    var html=document.documentElement;
+    function setFont()
+    {
+        var cliWidth=html.clientWidth;
+        html.style.fontSize=100*(cliWidth/750)+'px';
+    }
+    win.addEventListener('resize',setFont,false);
+    setFont();
+})(window,document);
+</script>
+</head>
+<body>
+<div class="imgS"><img src="images/weixin.jpg"></div>
+<div class="loadPage On" style="z-index:99999;">
+    <div class="bg0"></div>
+    <!-- <span class="hand"></span> -->
+    <div class="picBox leafPic1" id="snowzone1">
+      <div class="div div1"><img class="roll" src="images/w0_gold4.png"></div>
+      <div class="div div2"><img class="roll" src="images/w0_gold1.png"></div>
+      <div class="div div3"><img class="roll" src="images/w0_gold3.png"></div>
+      <div class="div div4"><img class="roll" src="images/w0_gold2.png"></div>
+      <div class="div div5"><img class="roll" src="images/w0_gold3.png"></div>
+    </div>
+    <span class="w">
+      <!-- <span class="gold1"><b class="w"></b></span>
+      <span class="gold2"><b class="w"></b></span> -->
+    </span>
+    <div class="loading m">
+        <div class="loading-num"><b id="nnn">0</b>%</div>
+    </div>
+  <!--版权信息-->
+</div>
+<div class="swiper-container" style="opacity:0;">
+    <!--音乐-->
+    <div id="audio_btn" class="u-audio u-play">
+        <div class="rotate"></div><audio style="display:none;" preload="preload" controls id="car_audio" src="images/music.mp3" loop></audio>
+    </div>
+
+    <div class="swiper-wrapper">
+        <!-- 第1屏  -->
+        <section class="swiper-slide slide1">
+          <div class="slide1Wrap w">
+            <span class="bg1"></span>
+            <span class="w1_huabg a-fadeoutT huabg_1 "><b></b></span>
+            <span class="w1_huabg a-fadeoutT huabg_3 "><b></b></span>
+            <span class="w1_people"></span>
+            <div class="w1_title">
+              <span class="year"></span>
+              <span class="nian"></span>
+              <span class="ni"></span>
+              <span class="de"></span>
+              <span class="shen"></span>
+              <span class="jia"></span>
+              <span class="zhi"></span>
+              <span class="duo"></span>
+              <span class="shao"></span>
+              <span class="wan"></span>
+              <span class="wen"><b></b></span>
+            </div>
+            <div class="w1_m w"><span class="w1_m1"></span><span class="w1_m2"></span><span class="w1_m3"></span><span class="w1_m4"></span><span class="w1_m5"></span></div>
+            <div class="w1_s w"><span class="w1_s1"></span><span class="w1_s2"></span><span class="w1_s3"></span><span class="w1_s4"></span></div>
+            <span class="w1_btn"><i class="s w"></i><b class="w"><i class="gold"></i><i class="stars"></i></b></span>
+          </div>
+          <span class="array"></span>
+        </section>
+        <!-- 第2屏 -->
+        <section class="swiper-slide slide2 stopSwiper">
+          <span class="bg2"></span>
+          <div class="Sex">
+            <span class="w_spot w_spot1"></span>
+            <span class="w_spot w_spot2"></span>
+            <h2>请选择你的性别：</h2>
+            <label class="G"><input type="radio" name="sex" value="G" att="G"><span class="bn"><b>♂</b> 小哥哥</span></label>
+            <label class="M"><input type="radio" name="sex" value="M" att="M"><span class="bn"><b>♀</b> 小姐姐</span></label>
+          </div>
+          <span class="array"></span>
+        </section>
+        <!-- 第3屏 -->
+        <section class="swiper-slide slide3 stopSwiper">
+          <span class="bg3"></span>
+          <span class="w_spot w_spot11"></span>
+          <span class="w_spot w_spot12"></span>
+          <span class="w_spot w_spot13"></span>
+          <div class="QA">
+            <div class="Q">
+                <h2>1、年底KPI完成的怎么样?</h2>
+            </div>
+            <div class="A">
+                <p class="a_A"><label><input class="An Ans" type="radio" name="key1" value="2" att="2"><span>A</span>超额完成任务，部门排头兵</label></p>
+                <p class="a_B"><label><input class="An Ans" type="radio" name="key1" value="1" att="1"><span>B</span>基本达成目标，比较满意</label></p>
+                <p class="a_C"><label><input class="An Ans" type="radio" name="key1" value="0" att="0"><span>C</span>还有一段距离，要更努力才行</label></p>
+            </div>
+          </div>
+          <span class="array"></span>
+        </section>
+        <!-- 第4屏 -->
+        <section class="swiper-slide slide4 stopSwiper">
+          <span class="bg3"></span>
+          <span class="w_spot w_spot11"></span>
+          <span class="w_spot w_spot12"></span>
+          <span class="w_spot w_spot13"></span>
+          <div class="QA">
+            <div class="Q">
+                <h2>2、想对2018年的自己说什么?</h2>
+            </div>
+            <div class="A">
+                <p class="a_A"><label><input class="An Ans" type="radio" name="key2" value="2" att="2"><span>A</span>你好棒棒</label></p>
+                <p class="a_B"><label><input class="An Ans" type="radio" name="key2" value="1" att="1"><span>B</span>你辛苦啦</label></p>
+                <p class="a_C"><label><input class="An Ans" type="radio" name="key2" value="0" att="0"><span>C</span>你要加油</label></p>
+            </div>
+          </div>
+          <span class="array"></span>
+        </section>
+        <!-- 第5屏 -->
+        <section class="swiper-slide slide5 stopSwiper">
+          <span class="bg3"></span>
+          <span class="w_spot w_spot11"></span>
+          <span class="w_spot w_spot12"></span>
+          <span class="w_spot w_spot13"></span>
+          <div class="QA">
+            <div class="Q s">
+                <h2>3、除了年终奖，你对2019还有什么期待呢?</h2>
+            </div>
+            <div class="A">
+                <p class="a_A"><label><input class="An Ans" type="radio" name="key3" value="2" att="2"><span>A</span>买房买车，给家人更好的生活</label></p>
+                <p class="a_B"><label><input class="An Ans" type="radio" name="key3" value="1" att="1"><span>B</span>攒几个证书，升职加薪</label></p>
+                <p class="a_C"><label><input class="An Ans" type="radio" name="key3" value="0" att="0"><span>C</span>养活自己，吃喝玩乐尽情享受</label></p>
+            </div>
+          </div>
+          <span class="array"></span>
+        </section>
+        <!-- 第6屏 -->
+        <section class="swiper-slide slide6 stopSwiper">
+          <span class="bg3"></span>
+          <span class="w_spot w_spot11"></span>
+          <span class="w_spot w_spot12"></span>
+          <span class="w_spot w_spot13"></span>
+          <div class="QA">
+            <div class="Q s">
+                <h2>4、你打算如何实现这个伟大的目标?</h2>
+            </div>
+            <div class="A">
+                <p class="a_A"><label><input class="An AnsS" type="radio" name="key4" value="2" att="2"><span>A</span>努力工作，争取多拿奖金</label></p>
+                <p class="a_B"><label><input class="An AnsS" type="radio" name="key4" value="1" att="1"><span>B</span>读个本科，换一家更好的公司</label></p>
+                <p class="a_C"><label><input class="An AnsS" type="radio" name="key4" value="0" att="0"><span>C</span>培养一项爱好或提升某种技能</label></p>
+            </div>
+          </div>
+          <div class="Btn canvasBtn">生成测试结果</div>
+          <span class="array"></span>
+        </section>
+
+        <!-- 第7屏 -->
+        <section class="swiper-slide slide7 stopSwiper">
+              <div class="slide7Wrap" id="targetDom">
+                <img id="screenShotImg">
+                <div class="ResultDiv ResultShare">
+                    <p class="weixinUser"><span class="headimgurl"><img src="images/weixin.jpg" /></span><span> 你好，</span><span class="nickname">我</span></p>
+                    <div class="SexB "><span class=""></span></div>
+                    <div class="GG">
+                      <p class="sj sj100" rel="100">天生领导者，你思想独立，追求完美，能带领团队攻克重要难题，你是他们的主心骨。</p>
+                      <p class="sj sj80" rel="80">炙热潜力股，积极进取是你的座右铭，相信一分耕耘一分收获，只差一个关键条件你就可以一飞冲天！</p>
+                      <p class="sj sj50" rel="50">厚积薄发者，你的未来财富值可不止这些，只要有适当的机会就能一跃而上，2019年pick一招职场大杀器吧~</p>
+                      <p class="sj sj20" rel="20">城市新青年，你没有太大的野心，知足安乐、享受生活是你的座右铭，年轻时也不妨发掘潜力，更好的自己会让你惊叹哦~ </p>
+                    </div>
+                    <div class="weixinCode"><img src="images/qrcode.png"></div>
+                </div>
+              </div>
+
+              <div class="slide7Wrap">
+                <div class="ResultDiv">
+                    <p class="weixinUser"><span class="headimgurl"><img src="images/weixin.jpg" /></span><span> 你好，</span><span class="nickname n_name">我</span></p>
+                    <div class="SexB SZ"><span id="id_sex" class="n_sex">100</span></div>
+                    <div class="GG">
+                      <p class="sj sj100" rel="100">天生领导者，你思想独立，追求完美，能带领团队攻克重要难题，你是他们的主心骨。</p>
+                      <p class="sj sj80" rel="80">炙热潜力股，积极进取是你的座右铭，相信一分耕耘一分收获，只差一个关键条件你就可以一飞冲天！</p>
+                      <p class="sj sj50" rel="50">厚积薄发者，你的未来财富值可不止这些，只要有适当的机会就能一跃而上，2019年pick一招职场大杀器吧~</p>
+                      <p class="sj sj20" rel="20">城市新青年，你没有太大的野心，知足安乐、享受生活是你的座右铭，年轻时也不妨发掘潜力，更好的自己会让你惊叹哦~ </p>
+                    </div>
+                    <div class="BtnTool">
+                      <span class="Retest">再测一次</span>
+                      <span class="cityMark">炫耀一下</span>
+                    </div>
+                    <p class="w_a" style="display:none;"></p>
+                </div>
+                <p class="unlockWork">解锁职场秘籍</p>
+              </div>
+
+
+              <div class="topShare" id="topShare"><div class="Share"></div></div>
+              <div class="WorkWrap" id="WorkWrap"></div>
+        </section>
+    </div>
+</div>
+
+<!--弹出视频 /S-->
+<div class="popup_video">
+  <div class="popup_close"></div>
+  <div id="pop_mod_player"></div>
+</div>
+<!--弹出视频 /E--> 
+<script src="js/zepto.min.js"></script>
+<script src="js/html2canvas.js"></script>
+
+<script type="text/javascript">
+  var linkUrl = "https://xxzx.chinaedu.net/d/H5-v04.html";
+  var appId = "wx5766328e8cf6a21a";
+  var parseQueryString = function (url) {
+     var reg_url = /^[^\?]+\?([\w\W]+)$/,
+      reg_para = /([^&=]+)=([\w\W]*?)(&|$|#)/g,
+      arr_url = reg_url.exec(url),
+      ret = {};
+     if (arr_url && arr_url[1]) {
+      var str_para = arr_url[1], result;
+      while ((result = reg_para.exec(str_para)) != null) {
+       ret[result[1]] = result[2];
+      }
+     }
+     return ret;
+  }
+
+  var correctUrl = location.href;
+  var newUrl = parseQueryString(correctUrl);
+
+  if(newUrl.from || correctUrl.indexOf("?") === -1 || !newUrl.code ){
+      location.href = 'https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5766328e8cf6a21a&redirect_uri=https://xxzx.chinaedu.net/d/H5-v04.html&response_type=code&scope=snsapi_userinfo#wechat_redirect'
+  }else{
+      // 获取信息
+      var storage=window.localStorage;
+      if(storage.getItem("nickname") && storage.getItem("headimgurl")){
+        $(".nickname").html(storage.getItem("nickname"));
+        $(".headimgurl img").attr('src',storage.getItem("headimgurl"));
+      }else{
+        var urlcode = parseQueryString(location.href);
+         $.ajax({
+             url: "https://xxzx.chinaedu.net/api/app_question/getMsg",
+             type: 'post',
+             data: {
+                 code:urlcode.code
+             },
+             success:function(res){
+                 console.log(res)
+                 if(res.success){
+                    $(".nickname").html(res.msg.nickname);
+                    $(".headimgurl img").attr('src',res.msg.headimgurl);
+                    storage.setItem("nickname",res.msg.nickname);
+                    storage.setItem("headimgurl",res.msg.headimgurl);
+                 }
+             },
+             error: function(err) {
+                 //console.log(err)
+             }
+         })
+
+
+      }
+      // 分享页面
+      var signUrl = location.href.split('#')[0];
+      
+      $.ajax({
+          url: "https://xxzx.chinaedu.net/api/app_question/signture",
+          type: 'post',
+          data: {
+              signUrl:signUrl
+          },
+          success:function(res){
+              console.log(res)
+              if(res.success){
+                  wx.config({
+                      debug: false,
+                      appId: appId,
+                      timestamp: res.msg.timestamp,
+                      nonceStr: res.msg.nonceStr,
+                      signature: res.msg.signature,
+                      jsApiList: [
+                        'checkJsApi',
+                        'onMenuShareTimeline',
+                        'onMenuShareAppMessage',
+                        'onMenuShareQQ'
+                      ]
+                  });
+                  wx.ready(function () {
+                      var shareData = {
+                        title:'2019年，据说'+ $(".n_name").text() + '的身价值'+ $("#id_sex").text() + '万！你也来测测看~',
+                        desc: '真希望能换成年终奖……',
+                        link: linkUrl,
+                        imgUrl: 'https://xxzx.chinaedu.net/d/images/weixin.jpg',
+                        success: function () {
+                            
+                        }
+                      };
+                      wx.onMenuShareAppMessage(shareData);
+                      wx.onMenuShareTimeline(shareData);
+                      wx.onMenuShareQQ(shareData);
+                  });
+                  wx.error(function (res) {
+                      
+                  });
+              }
+          },
+          error: function(err) {
+              //console.log(err)
+          }
+      })
+}
+</script>
+
+<script>
+/**
+ * 截图功能
+ * targetDom 要克隆的目标dom元素
+ * cb 回调函数
+*/
+function screenShot(targetDom,cb){
+    var copyDom = targetDom.clone();//克隆dom节点
+    copyDom.css('display','block');
+    $('body').append(copyDom);//把copy的截图对象追加到body后面
+    var width = copyDom.width();//dom宽
+    var height = copyDom.height();//dom高
+    var scale = 1.5;//放大倍数
+    var canvas = document.createElement('canvas');
+    canvas.width = width*scale;//canvas宽度
+    canvas.height = height*scale;//canvas高度
+    var content = canvas.getContext("2d");
+    content.scale(scale,scale);
+    var rect = copyDom.get(0).getBoundingClientRect();//获取元素相对于视察的偏移量
+    content.translate(-rect.left,-rect.top);//设置content位置，值为相对于视窗的偏移量负值，让图片复位
+    html2canvas(copyDom, {
+        allowTaint:true,
+        //useCORS:true,
+        tainTest:true,
+        scale:scale,
+        canvas:canvas,
+        width:width,
+        heigth:height,
+        onrendered: function(canvas) {
+            if(cb){
+                copyDom.css('display','none');
+                cb(canvas.toDataURL("image/png"),width,height);
+            }
+        }
+    });
+}
+</script>
+<script>
+/**
+ * loadImg  图片预加载
+ * @param   {Array}     预加载图片的对象数组
+*/
+var pics = [
+    "images/hand.png",
+    "images/gold1.gif",
+    "images/w7_G.png",
+    "images/w7_M.png",
+    "images/w1_people.png",
+    "images/w1_title.png",
+    "images/weixin.jpg",
+    "images/qrcode.png",
+    "images/wap_share.png",
+    "images/w1_s.png",
+    "images/w2_sex_M.png",
+    "images/bg3.gif",
+    "images/bg1.gif",
+    "images/SexB20G.png",
+    "images/SexB20M.png",
+    "images/SexB50G.png",
+    "images/SexB50M.png",
+    "images/SexB80G.png",
+    "images/SexB80M.png",
+    "images/SexB100G.png",
+    "images/SexB100M.png",
+    "images/wap_share.png",
+];
+
+function _loadImages(pics,callback,len){
+    len = len || pics.length;
+    if(pics.length){
+        var IMG = new Image(),
+            picelem = pics.shift();
+
+        if(window._pandaImageLoadArray){
+            window._pandaImageLoadArray = window._pandaImageLoadArray
+        }else{
+            window._pandaImageLoadArray = [];
+        }
+        window._pandaImageLoadArray.push(picelem);
+        IMG.src = picelem;
+        // 从数组中取出对象的一刻，就开始变化滚动条
+        _drawLoadProgress(window._pandaImageLoadArray.length/(len*len));
+        // 缓存处理
+        if (IMG.complete) {
+            window._pandaImageLoadArray.shift();
+            return _loadImages(pics,callback, len); 
+        }else{
+            // 加载处理
+            IMG.onload = function() {
+                window._pandaImageLoadArray.shift();
+                IMG.onload = null;  // 解决内存泄漏和GIF图多次触发onload的问题
+            }
+            // 容错处理 todo 应该如何处理呢?
+            // 目前是忽略这个错误，不影响正常使用
+            IMG.onerror = function(){
+                window._pandaImageLoadArray.shift();
+                IMG.onerror = null;
+            }
+            return _loadImages(pics, callback, len);
+        }
+        return;
+    }
+    if(callback) _loadProgress(callback, window._pandaImageLoadArray.length, len);
+}
+
+// 监听实际的加载情况
+function _loadProgress(callback, begin, all){
+    var loadinterval = setInterval(function(){
+        if(window._pandaImageLoadArray.length != 0 && window._pandaImageLoadArray.length != begin){
+            _drawLoadProgress((begin - window._pandaImageLoadArray.length )/all);
+        }else if(window._pandaImageLoadArray.length == 0){
+            _drawLoadProgress(1)
+            setTimeout(function(){
+                callback.call(window);
+            },500);
+            clearInterval(loadinterval);
+        }
+    },300);
+}
+
+function _drawLoadProgress(w){
+    var num = Math.floor(w*100) >= 100 ? 100 : Math.floor(w*100);
+    //var numoo = (num/100);
+    //console.log(numoo);
+    $('.loading-progress').animate({width:num+"%"}, 100, 'linear');
+    $(".loading-num b").html(num);
+    //$(".loading-progress b").html(num+"%");
+    //$('.w0_1').css('opacity',numoo);
+}
+
+// 调用
+_loadImages(pics,function(){
+  setTimeout(function(){
+    $(".loadPage").hide();
+    $(".swiper-container").css('opacity','1');
+    $(".slide1").addClass('active');
+    document.getElementById('car_audio').play();
+  },0);
+  setTimeout(function(){
+    $(".slide1").addClass('active');
+  },200);
+});
+
+
+var mySwiper = new Swiper ('.swiper-container',{
+  effect : 'fade',
+  direction : 'vertical',
+  pagination: '.swiper-pagination',
+  //nextButton: '.next',
+  mousewheelControl : true,
+  //loop : true,
+  noSwiping: true,
+  noSwipingClass: "stopSwiper",
+  on: {
+    slideChangeTransitionEnd: function(){
+      var i = this.activeIndex;
+        //console.log(i);
+        $(".Vm").removeClass("on").hide();
+        $(".slide1").removeClass("active");
+
+        if (i == 0 ){
+          $(".slide1").addClass('active');
+        }
+
+        if (i != 1){
+
+
+        }
+        if (i == 2){
+        }
+
+    },
+  }
+
+})
+
+
+/*音频*/
+var audioPlay = {
+    _flag: true,
+    _dom: $(".u-audio"),
+   _audio: $(".u-audio audio")[0],
+    _play: function () {
+        var _this = this;
+        this._audio.play();
+        this._dom.addClass("u-play");
+    },
+    _pause: function () {
+        var _this = this;
+        this._audio.pause();
+        this._dom.removeClass("u-play");
+        this._flag = false;
+    },
+    init: function () {
+        var _this = this;
+        this._dom.click(function(){
+            if(_this._dom.hasClass("u-play")){
+                _this._pause();
+            }else{
+                _this._play();
+            }
+        });
+    }
+};
+audioPlay.init();
+document.addEventListener("WeixinJSBridgeReady", function () {
+    WeixinJSBridge.invoke('getNetworkType', {}, function (e) {
+        //document.getElementById('car_audio').play();
+    });
+}, false);
+
+$(".Sex label input:radio").bind('click',function(){
+    var sex = $(this).val();
+    console.log(sex);
+    $(".SexB").addClass(sex)/*.html(sex)*/;
+    mySwiper.slideNext();
+});
+
+
+$(".w1_btn").bind('click',function(){
+    mySwiper.slideNext();
+});
+
+$('.QA .A').each(function(){
+    $(this).find('label').each(function(){
+        $(this).on('click',function(){
+            $(this).parent().addClass("Cur").siblings().removeClass('Cur');
+        });
+    })
+});
+
+
+$('.An:radio').bind('click',function(){
+    var val = $(this).val();
+    //console.log(val);
+  var sum = 0;
+  $.each($("input.An[type='radio']:checked"),function(){
+      sum += parseInt(this.value);
+  });
+  console.log(sum);
+  if (sum >= 7){
+      $(".sj").hide();
+      $(".sj100").fadeIn("fast");
+  }
+  if ( 6 >= sum && sum >= 5) {
+      $(".sj").hide();
+      $(".sj80").fadeIn("fast");
+  }
+  if ( 4 >= sum && sum >= 2) {
+      $(".sj").hide();
+      $(".sj50").fadeIn("fast");
+  }
+  if ( 1 >= sum && sum >= 0) {
+      $(".sj").hide();
+      $(".sj20").fadeIn("fast");
+  }
+});
+
+
+$('.Ans:radio').bind('click',function(){
+    setTimeout(function(){
+       mySwiper.slideNext();
+    },100);
+});
+
+
+$('.AnsS:radio').bind('click',function(){
+    $(".Btn").fadeIn('slow');
+});
+
+
+$(".canvasBtn").bind("click",function(){
+    mySwiper.slideNext();
+
+    var sum = 0;
+    $.each($("input.An[type='radio']:checked"),function(){
+        sum += parseInt(this.value);
+    });
+    if (sum >= 7){
+        $(".SexB").addClass('SexB100');
+        $(".SexB span").addClass('n_sex f100').html("100");
+    }
+    if ( 6 >= sum && sum >= 5) {
+        $(".SexB").addClass('SexB80');
+        $(".SexB span").addClass('n_sex f80').html("80");
+    }
+    if ( 4 >= sum && sum >= 2) {
+        $(".SexB").addClass('SexB50');
+      $(".SexB span").addClass('n_sex f50').html("50");
+    }
+    if ( 1 >= sum && sum >= 0) {
+        $(".SexB").addClass('SexB20');
+        $(".SexB span").addClass('n_sex f20').html("20");
+    }
+
+
+    screenShot($('#targetDom'),function(canvas,width,height){
+        alert("截图生成中");
+        $("#screenShotImg").attr({
+          src:canvas
+        });
+        $("#targetDom").css({
+          left: 0
+        });
+        $("#screenShotImg").css({
+          width: width,
+          height: height,
+          left:0
+        });;
+        alert("截图生成完成");
+        $(".w_a").fadeIn('slow');
+    });
+
+
+
+});
+
+//再测一次
+$(".Retest").bind('click',function(){
+    //window.location.reload();
+    window.location.href = linkUrl;
+});
+//炫耀一下
+$(".cityMark").bind('click',function(){
+  $(".topShare").show().css("opacity","1");
+});
+$(".topShare").bind('click',function(){
+  $(this).hide().css("opacity","0");
+});
+//解锁职场
+$(".unlockWork").bind('click',function(){
+  window.location.href = 'http://www.xuexi.com.cn/special/popularize1709/';
+});
+
+
+$(".vv").bind("click",function(){
+  var _src = $(this).find('img').attr('bigpic'),
+      _txt = $(this).find('img').attr('bigtxt');
+     $(".bigPicshow").show().addClass("cur").css("background-image","url("+_src+")");
+     $(".bigPicshow .picTxt").html(_txt);
+})
+$(".bigPicshow,.picClose").bind("click",function(){
+    $(".bigPicshow").removeClass('cur').hide();
+    $(".bigPicshow .picTxt").html("");
+})
+
+$(function(){
+  $(".vPic").bind("click",function(){
+    $(".Vm").removeClass("on").hide();
+    $(this).next(".Vm:first").addClass("on").show();
+  });
+  $(".Vm .Close").bind("click",function(){
+      $(".Vm").removeClass("on").hide();
+  });
+})
+</script>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F5a569e6a5b8486dd242096fcaa545a93' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fae0121ebc3c590bdde51e63c26f12564' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</body>
+</html>

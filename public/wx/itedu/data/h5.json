@@ -1,0 +1,64 @@
+{
+  "chapterList":[
+    {
+      "name" : "html入门",
+      "videoList" : [
+        {
+          "name" : "html1",
+          "videoUrl":"http://jszg.cdn.ws.zhiya100.com/NJK3LTM9LOGR9Q3WAZ87628YS3GPSXG3/NJK3LTM9LOGR9Q3WAZ87628YS3GPSXG3_hq.m3u8",
+          "time" : 24
+        },
+        {
+          "name" : "html2",
+          "videoUrl":"http://jszg.cdn.ws.zhiya100.com/NJK3LTM9LOGR9Q3WAZ87628YS3GPSXG3/NJK3LTM9LOGR9Q3WAZ87628YS3GPSXG3_hq.m3u8",
+          "time" : 27
+        },
+        {
+          "name" : "html1",
+          "videoUrl":"http://jszg.cdn.ws.zhiya100.com/NJK3LTM9LOGR9Q3WAZ87628YS3GPSXG3/NJK3LTM9LOGR9Q3WAZ87628YS3GPSXG3_hq.m3u8",
+          "time" : 23
+        }
+      ]
+    },
+    {
+      "name" : "css基础",
+      "videoList" : [
+        {
+          "name" : "css样式",
+          "videoUrl":"http://jszg.cdn.ws.zhiya100.com/NJK3LTM9LOGR9Q3WAZ87628YS3GPSXG3/NJK3LTM9LOGR9Q3WAZ87628YS3GPSXG3_hq.m3u8",
+          "time" : 24
+        },
+        {
+          "name" : "css类",
+          "videoUrl":"http://jszg.cdn.ws.zhiya100.com/NJK3LTM9LOGR9Q3WAZ87628YS3GPSXG3/NJK3LTM9LOGR9Q3WAZ87628YS3GPSXG3_hq.m3u8",
+          "time" : 27
+        },
+        {
+          "name" : "css动画",
+          "videoUrl":"http://jszg.cdn.ws.zhiya100.com/NJK3LTM9LOGR9Q3WAZ87628YS3GPSXG3/NJK3LTM9LOGR9Q3WAZ87628YS3GPSXG3_hq.m3u8",
+          "time" : 23
+        }
+      ]
+    },
+    {
+      "name" : "js基础",
+      "videoList" : [
+        {
+          "name" : "变量",
+          "videoUrl":"http://jszg.cdn.ws.zhiya100.com/NJK3LTM9LOGR9Q3WAZ87628YS3GPSXG3/NJK3LTM9LOGR9Q3WAZ87628YS3GPSXG3_hq.m3u8",
+          "time" : 24
+        },
+        {
+          "name" : "类型",
+          "videoUrl":"http://jszg.cdn.ws.zhiya100.com/NJK3LTM9LOGR9Q3WAZ87628YS3GPSXG3/NJK3LTM9LOGR9Q3WAZ87628YS3GPSXG3_hq.m3u8",
+          "time" : 27
+        },
+        {
+          "name" : "函数",
+          "videoUrl":"http://jszg.cdn.ws.zhiya100.com/NJK3LTM9LOGR9Q3WAZ87628YS3GPSXG3/NJK3LTM9LOGR9Q3WAZ87628YS3GPSXG3_hq.m3u8",
+          "time" : 23
+        }
+      ]
+    }
+  ]
+}

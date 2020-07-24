@@ -1,0 +1,16 @@
+INSERT INTO `s_coupon_course_coursetype`(`id`, `courseId`, `courseTypeId`) VALUES (19, 1, 1);
+INSERT INTO `s_coupon_course_coursetype`(`id`, `courseId`, `courseTypeId`) VALUES (20, 2, 1);
+INSERT INTO `s_coupon_course_coursetype`(`id`, `courseId`, `courseTypeId`) VALUES (21, 3, 1);
+INSERT INTO `s_coupon_course_coursetype`(`id`, `courseId`, `courseTypeId`) VALUES (22, 4, 2);
+INSERT INTO `s_coupon_course_coursetype`(`id`, `courseId`, `courseTypeId`) VALUES (23, 1, 3);
+INSERT INTO `s_coupon_course_coursetype`(`id`, `courseId`, `courseTypeId`) VALUES (24, 2, 3);
+INSERT INTO `s_coupon_course_coursetype`(`id`, `courseId`, `courseTypeId`) VALUES (25, 3, 3);
+INSERT INTO `s_coupon_course_coursetype`(`id`, `courseId`, `courseTypeId`) VALUES (26, 4, 3);
+INSERT INTO `s_coupon_course_coursetype`(`id`, `courseId`, `courseTypeId`) VALUES (28, 1, 4);
+INSERT INTO `s_coupon_course_coursetype`(`id`, `courseId`, `courseTypeId`) VALUES (29, 5, 4);
+INSERT INTO `s_coupon_course_coursetype`(`id`, `courseId`, `courseTypeId`) VALUES (30, 3, 4);
+INSERT INTO `s_coupon_course_coursetype`(`id`, `courseId`, `courseTypeId`) VALUES (31, 6, 4);
+INSERT INTO `s_coupon_course_coursetype`(`id`, `courseId`, `courseTypeId`) VALUES (32, 7, 5);
+INSERT INTO `s_coupon_course_coursetype`(`id`, `courseId`, `courseTypeId`) VALUES (33, 8, 2);
+INSERT INTO `s_coupon_course_coursetype`(`id`, `courseId`, `courseTypeId`) VALUES (34, 9, 2);
+INSERT INTO `s_coupon_course_coursetype`(`id`, `courseId`, `courseTypeId`) VALUES (35, 10, 5);

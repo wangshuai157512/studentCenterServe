@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <script type="text/javascript" src='./js/public.js'></script>
+        <script type="text/javascript" src="./js/jquery-3.2.1.min.js"></script>
+    </head>
+    <body>
+        <h2>登录</h2>
+    </body>
+    <script type="text/javascript">
+        $.ajax({
+            type:'get',
+            url:baseUrl + '/api/testLogin/get_test',
+            success:function(res){
+                console.log('res')
+                document.write(JSON.stringify(res));
+            },
+            err:function(err){
+                console.log('err')
+            }
+        })
+    </script>
+</html>

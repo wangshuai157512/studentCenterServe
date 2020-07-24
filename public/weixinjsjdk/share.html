@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'/>
+    <meta charset="UTF-8">
+    <title>请分享我</title>
+</head>
+<body>
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.11"></script>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script src="https://res2.wx.qq.com/open/js/jweixin-1.4.0.js"></script>
+<div id="app">
+    <div>请分享我</div>
+</div>
+
+<script>
+    var app = new Vue({
+        el : '#app',
+        data : {
+            // host : 'https://xxzx.chinaedu.net',
+            host : 'http://localhost:3306',
+        },
+        mounted () {
+            this.setConfig()
+            wx.ready(function(res){
+                wx.updateAppMessageShareData({
+                    title: '请分享我',
+                    desc: '哈哈哈哈',
+                    link: window.location.href,
+                    imgUrl: 'https://xxzx.chinaedu.net/wx/uploads/images/1577153948384-87156.png',
+                    success: function () {
+                        // 设置成功
+                    }
+                })
+                wx.updateTimelineShareData({
+                    title: '请分享我',
+                    desc: '哈哈哈哈',
+                    link: window.location.href,
+                    imgUrl: 'https://xxzx.chinaedu.net/wx/uploads/images/1577153948384-87156.png',
+                    success: function () {
+                        // 设置成功
+                    }
+                })
+            });
+            wx.error(function(res){
+                // config信息验证失败会执行error函数，如签名过期导致验证失败，具体错误信息可以打开config的debug模式查看，也可以在返回的res参数中查看，对于SPA可以在这里更新签名。
+            });
+        },
+        methods : {
+             async setConfig () {
+                let url = window.location.href.split('#')[0]
+                let appid = 'wx084249e61db2c69d'
+                let data = await axios({
+                    url : `${this.host}/wx/api/app_server/encryption`,
+                    method : 'post',
+                    data : {
+                        url,appid
+                    }
+                })
+                 if (data.data.success) {
+                     let res = data.data.data
+                     wx.config({
+                         debug: false, // 开启调试模式,调用的所有api的返回值会在客户端alert出来，若要查看传入的参数，可以在pc端打开，参数信息会通过log打出，仅在pc端时才会打印。
+                         appId: res.appid, // 必填，公众号的唯一标识
+                         timestamp: res.timestamp, // 必填，生成签名的时间戳
+                         nonceStr: res.nonceStr, // 必填，生成签名的随机串
+                         signature: res.signature,// 必填，签名
+                         jsApiList: ['updateAppMessageShareData','updateTimelineShareData'] // 必填，需要使用的JS接口列表
+                     });
+                 }
+
+            }
+        }
+    })
+</script>
+
+</body>
+</html>

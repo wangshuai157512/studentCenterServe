@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>公众号分享demo</title>
+</head>
+<body>
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.11"></script>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<div id="app">
+    <div v-if="isShowAdd">
+        <div v-if="appidList.length >= 1">
+            <div class="appid-list">
+                <p class="appid-item" v-for="(item,index) in appidList" :key="item.id">
+                    <span>{{item.appid}}</span>
+                    <span style="margin-left: 20px">{{item.domain}}</span>
+                    <button @click="del(item.id)">删除</button>
+                </p>
+            </div>
+        </div>
+        <div v-else>暂无</div>
+        <div class="add-appid">
+            <input type="text" v-model.trim="appid" placeholder="请输入appid">
+            <input type="text" v-model.trim="secret" placeholder="请输入secret">
+            <input type="text" v-model.trim="domain" placeholder="请输入授权域名">
+            <button @click="add">添加</button>
+        </div>
+    </div>
+    <div v-else>
+        <input type="text" placeholder="请输入账号" v-model.trim="user">
+        <input type="password" placeholder="请输入密码" v-model.trim="pass">
+        <button @click="login">登录</button>
+    </div>
+</div>
+
+<script>
+    var app = new Vue({
+        el : '#app',
+        data : {
+            appidList : [],
+            appid : '',
+            secret : '',
+            domain : '',
+            // host : 'https://xxzx.chinaedu.net',
+            host : 'http://localhost:3306',
+            isShowAdd : false,
+            user : '',
+            pass : '',
+        },
+        mounted () {
+            this.getAppidList()
+
+        },
+        methods : {
+            login () {
+                let user = this.user
+                let pass = this.pass
+                if (!user || !pass) {
+                    alert('请输入用户名或密码')
+                    return
+                }
+                axios({
+                    url : `${this.host}/wx/api/app_server/login`,
+                    method : 'post',
+                    data : {user, pass}
+                }).then(res => {
+                    if (res.data.code === 1) {
+                        alert('登录成功')
+                        this.isShowAdd = true
+                        this.user = ''
+                        this.pass = ''
+                    }else {
+                        alert('用户名或密码错误')
+                    }
+                })
+            },
+            getAppidList () {
+                axios({
+                    url : `${this.host}/wx/api/app_server/getAppidList`,
+                    method : 'get'
+                }).then(res => {
+                    if (res.data.code === 1) {
+                        this.appidList = res.data.data
+                    }else {
+                        alert('获取失败')
+                    }
+                })
+            },
+            add () {
+                let appid = this.appid
+                let secret = this.secret
+                let domain = this.domain
+                if (!appid || !secret) {
+                    alert('请输入完整内容')
+                    return
+                }
+                axios({
+                    url : `${this.host}/wx/api/app_server/addShareConfig`,
+                    method : 'post',
+                    data : {
+                        appid,secret,domain
+                    }
+                }).then( res => {
+                    if (res.data.code === 1) {
+                        alert('添加成功')
+                        this.appid = ''
+                        this.secret = ''
+                        this.getAppidList()
+                    } else {
+                        alert('添加失败')
+                    }
+                })
+            },
+            del (id) {
+                axios({
+                    url : `${this.host}/wx/api/app_server/deleteAppid`,
+                    method : 'post',
+                    data : {id}
+                }).then(res => {
+                    if (res.data.code === 1) {
+                        alert('删除成功')
+                        this.getAppidList()
+                    }
+                })
+            }
+        }
+    })
+</script>
+
+</body>
+</html>

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+    </head>
+    <body>
+
+    </body>
+    <script src="./js/jquery.js"></script>
+    <script src="./js/jweixin.js "></script>
+    <script type="text/javascript">
+        var parseQueryString = function (url) {
+         var reg_url = /^[^\?]+\?([\w\W]+)$/,
+          reg_para = /([^&=]+)=([\w\W]*?)(&|$|#)/g,
+          arr_url = reg_url.exec(url),
+          ret = {};
+         if (arr_url && arr_url[1]) {
+          var str_para = arr_url[1], result;
+          while ((result = reg_para.exec(str_para)) != null) {
+           ret[result[1]] = result[2];
+          }
+         }
+         return ret;
+        }
+
+        var correctUrl = location.href;
+        var newUrl = parseQueryString(correctUrl);
+
+        if(newUrl.from || correctUrl.indexOf("?") === -1){
+            location.href = 'https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5766328e8cf6a21a&redirect_uri=https://www.pmhuai.top/question/index.html&response_type=code&scope=snsapi_userinfo#wechat_redirect'
+        }else{
+            // 获取信息
+            var urlcode = parseQueryString(location.href);
+            $.ajax({
+                url: "https://www.pmhuai.top/api/app_question/getMsg",
+                type: 'post',
+                data: {
+                    code:urlcode.code
+                },
+                success:function(res){
+                    console.log(res)
+                },
+                error: function(err) {
+                    console.log(err)
+                }
+            })
+            // 分享页面
+            var signUrl = location.href.split('#')[0];
+            $.ajax({
+                url: "https://www.pmhuai.top/api/app_question/signture",
+                type: 'post',
+                data: {
+                    signUrl:signUrl
+                },
+                success:function(res){
+                    if(res.success){
+                        wx.config({
+                            debug: true,
+                            appId: 'wx5766328e8cf6a21a',
+                            timestamp: res.msg.timestamp,
+                            nonceStr: res.msg.nonceStr,
+                            signature: res.msg.signature,
+                            jsApiList: [
+                              'checkJsApi',
+                              'onMenuShareTimeline',
+                              'onMenuShareAppMessage',
+                              'onMenuShareQQ'
+                            ]
+                        });
+                        wx.ready(function () {
+                            var shareData = {
+                              title: '新页面',
+                              desc: '新页面',
+                              link: res.msg.url,
+                              imgUrl: 'https://www.baidu.com/img/jijian%20pad_13db91458cc0573abbf3055bc9c1d15b.png',
+                              success: function () {
+                                  
+                              }
+                            };
+                            wx.onMenuShareAppMessage(shareData);
+                            wx.onMenuShareTimeline(shareData);
+                            wx.onMenuShareQQ(shareData);
+                        });
+                        wx.error(function (res) {
+                            
+                        });
+                    }
+                },
+                error: function(err) {
+                    console.log(err)
+                }
+            })
+        }
+    </script>
+</html>

@@ -1,0 +1,29 @@
+{
+  "data":[
+    {
+      "title":"法律法规1",
+      "time":107,
+      "videoUrl":"http://jszg.cdn.ws.zhiya100.com/BVA3H8QDDJGEIZMG8MYWVOAM642M5W4H/BVA3H8QDDJGEIZMG8MYWVOAM642M5W4H_hq.m3u8"
+    },
+    {
+      "title":"法律法规2",
+      "time":115,
+      "videoUrl":"http://jszg.cdn.ws.zhiya100.com/BKAWPM6JDA4H7DY5N7IYZ5A5T1VTI4L4/BKAWPM6JDA4H7DY5N7IYZ5A5T1VTI4L4_hq.m3u8"
+    },
+    {
+      "title":"心理学1",
+      "time":102,
+      "videoUrl":"http://jszg.cdn.ws.zhiya100.com/I8PL88JDFS03UX681JHY2XLY9S4RT6JW/I8PL88JDFS03UX681JHY2XLY9S4RT6JW_hq.m3u8"
+    },
+    {
+      "title":"心理学2",
+      "time":111,
+      "videoUrl":"http://jszg.cdn.ws.zhiya100.com/RPNT68FSOMYKNPXV17IMX9DF9H4GQFXG/RPNT68FSOMYKNPXV17IMX9DF9H4GQFXG_hq.m3u8"
+    },
+    {
+      "title":"心理学3",
+      "time":157,
+      "videoUrl":"http://jszg.cdn.ws.zhiya100.com/KX3XEZHCWOR24XEEID389ZELHU115C0B/KX3XEZHCWOR24XEEID389ZELHU115C0B_hq.m3u8"
+    }
+  ]
+}

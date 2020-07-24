@@ -1,0 +1,314 @@
+{
+  "name": "数学（专升本）",
+  "type": "show",
+  "id": "65d55665e6c8c50aa5f85e54ae7f410b3f1aa8df",
+  "res": [
+    {
+        "name": "数列极限",
+        "no": "01",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/01%e6%95%b0%e5%88%97%e6%9e%81%e9%99%90/%e5%88%87%e7%89%87/01%e6%95%b0%e5%88%97%e6%9e%81%e9%99%90/video.m3u8"
+    },
+    {
+        "name": "函数极限",
+        "no": "02",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/02%e5%87%bd%e6%95%b0%e6%9e%81%e9%99%90/%e5%88%87%e7%89%87/02%e5%87%bd%e6%95%b0%e6%9e%81%e9%99%90/video.m3u8"
+    },
+    {
+        "name": "函数在x0处的极限",
+        "no": "03",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/03%e5%87%bd%e6%95%b0%e5%9c%a8x0%e5%a4%84%e7%9a%84%e6%9e%81%e9%99%90/%e5%88%87%e7%89%87/03%e5%87%bd%e6%95%b0%e5%9c%a8x0%e5%a4%84%e7%9a%84%e6%9e%81%e9%99%90/video.m3u8"
+    },
+    {
+        "name": "分段函数在分段点的极限",
+        "no": "04",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/04%e5%88%86%e6%ae%b5%e5%87%bd%e6%95%b0%e5%9c%a8%e5%88%86%e6%ae%b5%e7%82%b9%e7%9a%84%e6%9e%81%e9%99%90/%e5%88%87%e7%89%87/04%e5%88%86%e6%ae%b5%e5%87%bd%e6%95%b0%e5%9c%a8%e5%88%86%e6%ae%b5%e7%82%b9%e7%9a%84%e6%9e%81%e9%99%90/video.m3u8"
+    },
+    {
+        "name": "两个重要极限",
+        "no": "05",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/05%e4%b8%a4%e4%b8%aa%e9%87%8d%e8%a6%81%e6%9e%81%e9%99%90/%e5%88%87%e7%89%87/05%e4%b8%a4%e4%b8%aa%e9%87%8d%e8%a6%81%e6%9e%81%e9%99%90/video.m3u8"
+    },
+    {
+        "name": "无穷小的性质和量阶",
+        "no": "06",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/06%e6%97%a0%e7%a9%b7%e5%b0%8f%e7%9a%84%e6%80%a7%e8%b4%a8%e5%92%8c%e9%87%8f%e9%98%b6/%e5%88%87%e7%89%87/06%e6%97%a0%e7%a9%b7%e5%b0%8f%e7%9a%84%e6%80%a7%e8%b4%a8%e5%92%8c%e9%87%8f%e9%98%b6/video.m3u8"
+    },
+    {
+        "name": "函数的连续性",
+        "no": "07",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/07%e5%87%bd%e6%95%b0%e7%9a%84%e8%bf%9e%e7%bb%ad%e6%80%a7/%e5%88%87%e7%89%87/07%e5%87%bd%e6%95%b0%e7%9a%84%e8%bf%9e%e7%bb%ad%e6%80%a7/video.m3u8"
+    },
+    {
+        "name": "基本初等函数的导数",
+        "no": "08",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/08%e5%9f%ba%e6%9c%ac%e5%88%9d%e7%ad%89%e5%87%bd%e6%95%b0%e7%9a%84%e5%af%bc%e6%95%b0/%e5%88%87%e7%89%87/08%e5%9f%ba%e6%9c%ac%e5%88%9d%e7%ad%89%e5%87%bd%e6%95%b0%e7%9a%84%e5%af%bc%e6%95%b0/video.m3u8"
+    },
+    {
+        "name": "导数的四则运算公式",
+        "no": "09",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/09%e5%af%bc%e6%95%b0%e7%9a%84%e5%9b%9b%e5%88%99%e8%bf%90%e7%ae%97%e5%85%ac%e5%bc%8f/%e5%88%87%e7%89%87/09%e5%af%bc%e6%95%b0%e7%9a%84%e5%9b%9b%e5%88%99%e8%bf%90%e7%ae%97%e5%85%ac%e5%bc%8f/video.m3u8"
+    },
+    {
+        "name": "复合函数的导数",
+        "no": "10",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/10%e5%a4%8d%e5%90%88%e5%87%bd%e6%95%b0%e7%9a%84%e5%af%bc%e6%95%b0/%e5%88%87%e7%89%87/10%e5%a4%8d%e5%90%88%e5%87%bd%e6%95%b0%e7%9a%84%e5%af%bc%e6%95%b0/video.m3u8"
+    },
+    {
+        "name": "初等函数的微分",
+        "no": "11",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/11%e5%88%9d%e7%ad%89%e5%87%bd%e6%95%b0%e7%9a%84%e5%be%ae%e5%88%86/%e5%88%87%e7%89%87/11%e5%88%9d%e7%ad%89%e5%87%bd%e6%95%b0%e7%9a%84%e5%be%ae%e5%88%86/video.m3u8"
+    },
+    {
+        "name": "高阶导数",
+        "no": "12",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/12%e9%ab%98%e9%98%b6%e5%af%bc%e6%95%b0/%e5%88%87%e7%89%87/12%e9%ab%98%e9%98%b6%e5%af%bc%e6%95%b0/video.m3u8"
+    },
+    {
+        "name": "洛比达法则求极限",
+        "no": "13",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/13%e6%b4%9b%e6%af%94%e8%be%be%e6%b3%95%e5%88%99%e6%b1%82%e6%9e%81%e9%99%90/%e5%88%87%e7%89%87/13%e6%b4%9b%e6%af%94%e8%be%be%e6%b3%95%e5%88%99%e6%b1%82%e6%9e%81%e9%99%90/video.m3u8"
+    },
+    {
+        "name": "导数的几何意义",
+        "no": "14",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/14%e5%af%bc%e6%95%b0%e7%9a%84%e5%87%a0%e4%bd%95%e6%84%8f%e4%b9%89/%e5%88%87%e7%89%87/14%e5%af%bc%e6%95%b0%e7%9a%84%e5%87%a0%e4%bd%95%e6%84%8f%e4%b9%89/video.m3u8"
+    },
+    {
+        "name": "用导数判断函数单调性",
+        "no": "15",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/15%e7%94%a8%e5%af%bc%e6%95%b0%e5%88%a4%e6%96%ad%e5%87%bd%e6%95%b0%e5%8d%95%e8%b0%83%e6%80%a7/%e5%88%87%e7%89%87/15%e7%94%a8%e5%af%bc%e6%95%b0%e5%88%a4%e6%96%ad%e5%87%bd%e6%95%b0%e5%8d%95%e8%b0%83%e6%80%a7/video.m3u8"
+    },
+    {
+        "name": "用导数证明不等式恒成立",
+        "no": "16",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/16%e7%94%a8%e5%af%bc%e6%95%b0%e8%af%81%e6%98%8e%e4%b8%8d%e7%ad%89%e5%bc%8f%e6%81%92%e6%88%90%e7%ab%8b/%e5%88%87%e7%89%87/16%e7%94%a8%e5%af%bc%e6%95%b0%e8%af%81%e6%98%8e%e4%b8%8d%e7%ad%89%e5%bc%8f%e6%81%92%e6%88%90%e7%ab%8b/video.m3u8"
+    },
+    {
+        "name": "用导数求函数的极值和最值",
+        "no": "17",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/17%e7%94%a8%e5%af%bc%e6%95%b0%e6%b1%82%e5%87%bd%e6%95%b0%e7%9a%84%e6%9e%81%e5%80%bc%e5%92%8c%e6%9c%80%e5%80%bc/%e5%88%87%e7%89%87/17%e7%94%a8%e5%af%bc%e6%95%b0%e6%b1%82%e5%87%bd%e6%95%b0%e7%9a%84%e6%9e%81%e5%80%bc%e5%92%8c%e6%9c%80%e5%80%bc/video.m3u8"
+    },
+    {
+        "name": "用导数判断函数的凹凸方向和拐点",
+        "no": "18",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/18%e7%94%a8%e5%af%bc%e6%95%b0%e5%88%a4%e6%96%ad%e5%87%bd%e6%95%b0%e7%9a%84%e5%87%b9%e5%87%b8%e6%96%b9%e5%90%91%e5%92%8c%e6%8b%90%e7%82%b9/%e5%88%87%e7%89%87/18%e7%94%a8%e5%af%bc%e6%95%b0%e5%88%a4%e6%96%ad%e5%87%bd%e6%95%b0%e7%9a%84%e5%87%b9%e5%87%b8%e6%96%b9%e5%90%91%e5%92%8c%e6%8b%90%e7%82%b9/video.m3u8"
+    },
+    {
+        "name": "不定积分的概念",
+        "no": "19",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/19%e4%b8%8d%e5%ae%9a%e7%a7%af%e5%88%86%e7%9a%84%e6%a6%82%e5%bf%b5/%e5%88%87%e7%89%87/19%e4%b8%8d%e5%ae%9a%e7%a7%af%e5%88%86%e7%9a%84%e6%a6%82%e5%bf%b5/video.m3u8"
+    },
+    {
+        "name": "不定积分的基本公式",
+        "no": "20",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/20%e4%b8%8d%e5%ae%9a%e7%a7%af%e5%88%86%e7%9a%84%e5%9f%ba%e6%9c%ac%e5%85%ac%e5%bc%8f/%e5%88%87%e7%89%87/20%e4%b8%8d%e5%ae%9a%e7%a7%af%e5%88%86%e7%9a%84%e5%9f%ba%e6%9c%ac%e5%85%ac%e5%bc%8f/video.m3u8"
+    },
+    {
+        "name": "不定积分的四则运算",
+        "no": "21",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/21%e4%b8%8d%e5%ae%9a%e7%a7%af%e5%88%86%e7%9a%84%e5%9b%9b%e5%88%99%e8%bf%90%e7%ae%97/%e5%88%87%e7%89%87/21%e4%b8%8d%e5%ae%9a%e7%a7%af%e5%88%86%e7%9a%84%e5%9b%9b%e5%88%99%e8%bf%90%e7%ae%97/video.m3u8"
+    },
+    {
+        "name": "利用换元法和凑微分法求积分",
+        "no": "22",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/22%e5%88%a9%e7%94%a8%e6%8d%a2%e5%85%83%e6%b3%95%e5%92%8c%e5%87%91%e5%be%ae%e5%88%86%e6%b3%95%e6%b1%82%e7%a7%af%e5%88%86/%e5%88%87%e7%89%87/22%e5%88%a9%e7%94%a8%e6%8d%a2%e5%85%83%e6%b3%95%e5%92%8c%e5%87%91%e5%be%ae%e5%88%86%e6%b3%95%e6%b1%82%e7%a7%af%e5%88%86/video.m3u8"
+    },
+    {
+        "name": "利用第二换元法求积分",
+        "no": "23",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/23%e5%88%a9%e7%94%a8%e7%ac%ac%e4%ba%8c%e6%8d%a2%e5%85%83%e6%b3%95%e6%b1%82%e7%a7%af%e5%88%86/%e5%88%87%e7%89%87/23%e5%88%a9%e7%94%a8%e7%ac%ac%e4%ba%8c%e6%8d%a2%e5%85%83%e6%b3%95%e6%b1%82%e7%a7%af%e5%88%86/video.m3u8"
+    },
+    {
+        "name": "利用分部积分法求积分",
+        "no": "24",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/24%e5%88%a9%e7%94%a8%e5%88%86%e9%83%a8%e7%a7%af%e5%88%86%e6%b3%95%e6%b1%82%e7%a7%af%e5%88%86/%e5%88%87%e7%89%87/24%e5%88%a9%e7%94%a8%e5%88%86%e9%83%a8%e7%a7%af%e5%88%86%e6%b3%95%e6%b1%82%e7%a7%af%e5%88%86/video.m3u8"
+    },
+    {
+        "name": "利用分部积分法求积分",
+        "no": "25",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/25%e5%88%a9%e7%94%a8%e5%88%86%e9%83%a8%e7%a7%af%e5%88%86%e6%b3%95%e6%b1%82%e7%a7%af%e5%88%86/%e5%88%87%e7%89%87/25%e5%88%a9%e7%94%a8%e5%88%86%e9%83%a8%e7%a7%af%e5%88%86%e6%b3%95%e6%b1%82%e7%a7%af%e5%88%86/video.m3u8"
+    },
+    {
+        "name": "定积分的定义",
+        "no": "26",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/26%e5%ae%9a%e7%a7%af%e5%88%86%e7%9a%84%e5%ae%9a%e4%b9%89/%e5%88%87%e7%89%87/26%e5%ae%9a%e7%a7%af%e5%88%86%e7%9a%84%e5%ae%9a%e4%b9%89/video.m3u8"
+    },
+    {
+        "name": "定积分的几个性质和结论",
+        "no": "27",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/27%e5%ae%9a%e7%a7%af%e5%88%86%e7%9a%84%e5%87%a0%e4%b8%aa%e6%80%a7%e8%b4%a8%e5%92%8c%e7%bb%93%e8%ae%ba/%e5%88%87%e7%89%87/27%e5%ae%9a%e7%a7%af%e5%88%86%e7%9a%84%e5%87%a0%e4%b8%aa%e6%80%a7%e8%b4%a8%e5%92%8c%e7%bb%93%e8%ae%ba/video.m3u8"
+    },
+    {
+        "name": "变上限积分和变上限积分的导数",
+        "no": "28",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/28%e5%8f%98%e4%b8%8a%e9%99%90%e7%a7%af%e5%88%86%e5%92%8c%e5%8f%98%e4%b8%8a%e9%99%90%e7%a7%af%e5%88%86%e7%9a%84%e5%af%bc%e6%95%b0/%e5%88%87%e7%89%87/28%e5%8f%98%e4%b8%8a%e9%99%90%e7%a7%af%e5%88%86%e5%92%8c%e5%8f%98%e4%b8%8a%e9%99%90%e7%a7%af%e5%88%86%e7%9a%84%e5%af%bc%e6%95%b0/video.m3u8"
+    },
+    {
+        "name": "定积分的换元法和凑微分法",
+        "no": "29",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/29%e5%ae%9a%e7%a7%af%e5%88%86%e7%9a%84%e6%8d%a2%e5%85%83%e6%b3%95%e5%92%8c%e5%87%91%e5%be%ae%e5%88%86%e6%b3%95/%e5%88%87%e7%89%87/29%e5%ae%9a%e7%a7%af%e5%88%86%e7%9a%84%e6%8d%a2%e5%85%83%e6%b3%95%e5%92%8c%e5%87%91%e5%be%ae%e5%88%86%e6%b3%95/video.m3u8"
+    },
+    {
+        "name": "定积分的第二换元法",
+        "no": "30",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/30%e5%ae%9a%e7%a7%af%e5%88%86%e7%9a%84%e7%ac%ac%e4%ba%8c%e6%8d%a2%e5%85%83%e6%b3%95/%e5%88%87%e7%89%87/30%e5%ae%9a%e7%a7%af%e5%88%86%e7%9a%84%e7%ac%ac%e4%ba%8c%e6%8d%a2%e5%85%83%e6%b3%95/video.m3u8"
+    },
+    {
+        "name": "定积分的分部积分法",
+        "no": "31",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/31%e5%ae%9a%e7%a7%af%e5%88%86%e7%9a%84%e5%88%86%e9%83%a8%e7%a7%af%e5%88%86%e6%b3%95/%e5%88%87%e7%89%87/31%e5%ae%9a%e7%a7%af%e5%88%86%e7%9a%84%e5%88%86%e9%83%a8%e7%a7%af%e5%88%86%e6%b3%95/video.m3u8"
+    },
+    {
+        "name": "无限区间的广义积分",
+        "no": "32",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/32%e6%97%a0%e9%99%90%e5%8c%ba%e9%97%b4%e7%9a%84%e5%b9%bf%e4%b9%89%e7%a7%af%e5%88%86/%e5%88%87%e7%89%87/32%e6%97%a0%e9%99%90%e5%8c%ba%e9%97%b4%e7%9a%84%e5%b9%bf%e4%b9%89%e7%a7%af%e5%88%86/video.m3u8"
+    },
+    {
+        "name": "定积分的几何意义",
+        "no": "33",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/33%e5%ae%9a%e7%a7%af%e5%88%86%e7%9a%84%e5%87%a0%e4%bd%95%e6%84%8f%e4%b9%89/%e5%88%87%e7%89%87/33%e5%ae%9a%e7%a7%af%e5%88%86%e7%9a%84%e5%87%a0%e4%bd%95%e6%84%8f%e4%b9%89/video.m3u8"
+    },
+    {
+        "name": "用定积分求平面图形绕坐标轴旋转成的旋转体体积",
+        "no": "34",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/34%e7%94%a8%e5%ae%9a%e7%a7%af%e5%88%86%e6%b1%82%e5%b9%b3%e9%9d%a2%e5%9b%be%e5%bd%a2%e7%bb%95%e5%9d%90%e6%a0%87%e8%bd%b4%e6%97%8b%e8%bd%ac%e6%88%90%e7%9a%84%e6%97%8b%e8%bd%ac%e4%bd%93%e4%bd%93%e7%a7%af/%e5%88%87%e7%89%87/34%e7%94%a8%e5%ae%9a%e7%a7%af%e5%88%86%e6%b1%82%e5%b9%b3%e9%9d%a2%e5%9b%be%e5%bd%a2%e7%bb%95%e5%9d%90%e6%a0%87%e8%bd%b4%e6%97%8b%e8%bd%ac%e6%88%90%e7%9a%84%e6%97%8b%e8%bd%ac%e4%bd%93%e4%bd%93%e7%a7%af/video.m3u8"
+    },
+    {
+        "name": "二元函数的定义域",
+        "no": "35",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/35%e4%ba%8c%e5%85%83%e5%87%bd%e6%95%b0%e7%9a%84%e5%ae%9a%e4%b9%89%e5%9f%9f/%e5%88%87%e7%89%87/35%e4%ba%8c%e5%85%83%e5%87%bd%e6%95%b0%e7%9a%84%e5%ae%9a%e4%b9%89%e5%9f%9f/video.m3u8"
+    },
+    {
+        "name": "二元简单函数的一阶偏导数",
+        "no": "36",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/36%e4%ba%8c%e5%85%83%e7%ae%80%e5%8d%95%e5%87%bd%e6%95%b0%e7%9a%84%e4%b8%80%e9%98%b6%e5%81%8f%e5%af%bc%e6%95%b0/%e5%88%87%e7%89%87/36%e4%ba%8c%e5%85%83%e7%ae%80%e5%8d%95%e5%87%bd%e6%95%b0%e7%9a%84%e4%b8%80%e9%98%b6%e5%81%8f%e5%af%bc%e6%95%b0/video.m3u8"
+    },
+    {
+        "name": "二元复合函数的一阶偏导数",
+        "no": "37",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/37%e4%ba%8c%e5%85%83%e5%a4%8d%e5%90%88%e5%87%bd%e6%95%b0%e7%9a%84%e4%b8%80%e9%98%b6%e5%81%8f%e5%af%bc%e6%95%b0/%e5%88%87%e7%89%87/37%e4%ba%8c%e5%85%83%e5%a4%8d%e5%90%88%e5%87%bd%e6%95%b0%e7%9a%84%e4%b8%80%e9%98%b6%e5%81%8f%e5%af%bc%e6%95%b0/video.m3u8"
+    },
+    {
+        "name": "二元函数的二阶偏导数",
+        "no": "38",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/38%e4%ba%8c%e5%85%83%e5%87%bd%e6%95%b0%e7%9a%84%e4%ba%8c%e9%98%b6%e5%81%8f%e5%af%bc%e6%95%b0/%e5%88%87%e7%89%87/38%e4%ba%8c%e5%85%83%e5%87%bd%e6%95%b0%e7%9a%84%e4%ba%8c%e9%98%b6%e5%81%8f%e5%af%bc%e6%95%b0/video.m3u8"
+    },
+    {
+        "name": "二元幂指函数的偏导数",
+        "no": "39",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/39%e4%ba%8c%e5%85%83%e5%b9%82%e6%8c%87%e5%87%bd%e6%95%b0%e7%9a%84%e5%81%8f%e5%af%bc%e6%95%b0/%e5%88%87%e7%89%87/39%e4%ba%8c%e5%85%83%e5%b9%82%e6%8c%87%e5%87%bd%e6%95%b0%e7%9a%84%e5%81%8f%e5%af%bc%e6%95%b0/video.m3u8"
+    },
+    {
+        "name": "三元方程确定的二元隐函数的偏导(函)数",
+        "no": "40",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/40%e4%b8%89%e5%85%83%e6%96%b9%e7%a8%8b%e7%a1%ae%e5%ae%9a%e7%9a%84%e4%ba%8c%e5%85%83%e9%9a%90%e5%87%bd%e6%95%b0%e7%9a%84%e5%81%8f%e5%af%bc(%e5%87%bd)%e6%95%b0/%e5%88%87%e7%89%87/40%e4%b8%89%e5%85%83%e6%96%b9%e7%a8%8b%e7%a1%ae%e5%ae%9a%e7%9a%84%e4%ba%8c%e5%85%83%e9%9a%90%e5%87%bd%e6%95%b0%e7%9a%84%e5%81%8f%e5%af%bc(%e5%87%bd)%e6%95%b0/video.m3u8"
+    },
+    {
+        "name": "二元函数全微分",
+        "no": "41",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/41%e4%ba%8c%e5%85%83%e5%87%bd%e6%95%b0%e5%85%a8%e5%be%ae%e5%88%86/%e5%88%87%e7%89%87/41%e4%ba%8c%e5%85%83%e5%87%bd%e6%95%b0%e5%85%a8%e5%be%ae%e5%88%86/video.m3u8"
+    },
+    {
+        "name": "求二元函数的极值",
+        "no": "42",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/42%e6%b1%82%e4%ba%8c%e5%85%83%e5%87%bd%e6%95%b0%e7%9a%84%e6%9e%81%e5%80%bc/%e5%88%87%e7%89%87/42%e6%b1%82%e4%ba%8c%e5%85%83%e5%87%bd%e6%95%b0%e7%9a%84%e6%9e%81%e5%80%bc/video.m3u8"
+    },
+    {
+        "name": "二重积分的计算",
+        "no": "43",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/43%e4%ba%8c%e9%87%8d%e7%a7%af%e5%88%86%e7%9a%84%e8%ae%a1%e7%ae%97/%e5%88%87%e7%89%87/43%e4%ba%8c%e9%87%8d%e7%a7%af%e5%88%86%e7%9a%84%e8%ae%a1%e7%ae%97/video.m3u8"
+    },
+    {
+        "name": "二重积分的应用",
+        "no": "44",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/44%e4%ba%8c%e9%87%8d%e7%a7%af%e5%88%86%e7%9a%84%e5%ba%94%e7%94%a8/%e5%88%87%e7%89%87/44%e4%ba%8c%e9%87%8d%e7%a7%af%e5%88%86%e7%9a%84%e5%ba%94%e7%94%a8/video.m3u8"
+    },
+    {
+        "name": "正项级数",
+        "no": "45",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/45%e6%ad%a3%e9%a1%b9%e7%ba%a7%e6%95%b0/%e5%88%87%e7%89%87/45%e6%ad%a3%e9%a1%b9%e7%ba%a7%e6%95%b0/video.m3u8"
+    },
+    {
+        "name": "任意项级数",
+        "no": "46",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/46%e4%bb%bb%e6%84%8f%e9%a1%b9%e7%ba%a7%e6%95%b0/%e5%88%87%e7%89%87/46%e4%bb%bb%e6%84%8f%e9%a1%b9%e7%ba%a7%e6%95%b0/video.m3u8"
+    },
+    {
+        "name": "幂级数",
+        "no": "47",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/47%e5%b9%82%e7%ba%a7%e6%95%b0/%e5%88%87%e7%89%87/47%e5%b9%82%e7%ba%a7%e6%95%b0/video.m3u8"
+    },
+    {
+        "name": "一阶微分方程",
+        "no": "48",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/48%e4%b8%80%e9%98%b6%e5%be%ae%e5%88%86%e6%96%b9%e7%a8%8b/%e5%88%87%e7%89%87/48%e4%b8%80%e9%98%b6%e5%be%ae%e5%88%86%e6%96%b9%e7%a8%8b/video.m3u8"
+    },
+    {
+        "name": "二阶常系数微分方程",
+        "no": "49",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/49%e4%ba%8c%e9%98%b6%e5%b8%b8%e7%b3%bb%e6%95%b0%e5%be%ae%e5%88%86%e6%96%b9%e7%a8%8b/%e5%88%87%e7%89%87/49%e4%ba%8c%e9%98%b6%e5%b8%b8%e7%b3%bb%e6%95%b0%e5%be%ae%e5%88%86%e6%96%b9%e7%a8%8b/video.m3u8"
+    },
+    {
+        "name": "随机事件及其概率",
+        "no": "50",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/50%e9%9a%8f%e6%9c%ba%e4%ba%8b%e4%bb%b6%e5%8f%8a%e5%85%b6%e6%a6%82%e7%8e%87/%e5%88%87%e7%89%87/50%e9%9a%8f%e6%9c%ba%e4%ba%8b%e4%bb%b6%e5%8f%8a%e5%85%b6%e6%a6%82%e7%8e%87/video.m3u8"
+    },
+    {
+        "name": "随机变量及概率分布",
+        "no": "51",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00703/770277_20180827_2/D735F15CFB1C416BB87AFE6E966BD6F4/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/51%e9%9a%8f%e6%9c%ba%e5%8f%98%e9%87%8f%e5%8f%8a%e6%a6%82%e7%8e%87%e5%88%86%e5%b8%83/%e5%88%87%e7%89%87/51%e9%9a%8f%e6%9c%ba%e5%8f%98%e9%87%8f%e5%8f%8a%e6%a6%82%e7%8e%87%e5%88%86%e5%b8%83/video.m3u8"
+    }
+  ],
+  "version": "2018-08-17 14:00:49"
+}

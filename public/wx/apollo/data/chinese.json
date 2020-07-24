@@ -1,0 +1,302 @@
+{
+  "name": "语文",
+  "type": "show",
+  "id": "7c35edea8e07dde19220d7b234af5177f51f9c72",
+  "res": [
+    {
+        "name": "荷塘月色（朱自清）",
+        "no": "001",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/001%e8%8d%b7%e5%a1%98%e6%9c%88%e8%89%b2%ef%bc%88%e6%9c%b1%e8%87%aa%e6%b8%85%ef%bc%89/%e5%88%87%e7%89%87/001%e8%8d%b7%e5%a1%98%e6%9c%88%e8%89%b2%ef%bc%88%e6%9c%b1%e8%87%aa%e6%b8%85%ef%bc%89/video.m3u8"
+    },
+    {
+        "name": "都江堰（余秋雨）",
+        "no": "002",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/002%e9%83%bd%e6%b1%9f%e5%a0%b0%ef%bc%88%e4%bd%99%e7%a7%8b%e9%9b%a8%ef%bc%89/%e5%88%87%e7%89%87/002%e9%83%bd%e6%b1%9f%e5%a0%b0%ef%bc%88%e4%bd%99%e7%a7%8b%e9%9b%a8%ef%bc%89/video.m3u8"
+    },
+    {
+        "name": "雨中登泰山（李健吾）",
+        "no": "003",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/003%e9%9b%a8%e4%b8%ad%e7%99%bb%e6%b3%b0%e5%b1%b1%ef%bc%88%e6%9d%8e%e5%81%a5%e5%90%be%ef%bc%89/%e5%88%87%e7%89%87/003%e9%9b%a8%e4%b8%ad%e7%99%bb%e6%b3%b0%e5%b1%b1%ef%bc%88%e6%9d%8e%e5%81%a5%e5%90%be%ef%bc%89/video.m3u8"
+    },
+    {
+        "name": "石缝间的生命(l林希)",
+        "no": "004",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/004%e7%9f%b3%e7%bc%9d%e9%97%b4%e7%9a%84%e7%94%9f%e5%91%bd(l%e6%9e%97%e5%b8%8c)/%e5%88%87%e7%89%87/004%e7%9f%b3%e7%bc%9d%e9%97%b4%e7%9a%84%e7%94%9f%e5%91%bd(l%e6%9e%97%e5%b8%8c)/video.m3u8"
+    },
+    {
+        "name": "记念刘和珍君（鲁迅）",
+        "no": "005",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/005%e8%ae%b0%e5%bf%b5%e5%88%98%e5%92%8c%e7%8f%8d%e5%90%9b%ef%bc%88%e9%b2%81%e8%bf%85%ef%bc%89/%e5%88%87%e7%89%87/005%e8%ae%b0%e5%bf%b5%e5%88%98%e5%92%8c%e7%8f%8d%e5%90%9b%ef%bc%88%e9%b2%81%e8%bf%85%ef%bc%89/video.m3u8"
+    },
+    {
+        "name": "琐忆（唐弢）",
+        "no": "006",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/006%e7%90%90%e5%bf%86%ef%bc%88%e5%94%90%e5%bc%a2%ef%bc%89/%e5%88%87%e7%89%87/006%e7%90%90%e5%bf%86%ef%bc%88%e5%94%90%e5%bc%a2%ef%bc%89/video.m3u8"
+    },
+    {
+        "name": "书桌（冯骥才）",
+        "no": "007",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/007%e4%b9%a6%e6%a1%8c%ef%bc%88%e5%86%af%e9%aa%a5%e6%89%8d%ef%bc%89/%e5%88%87%e7%89%87/007%e4%b9%a6%e6%a1%8c%ef%bc%88%e5%86%af%e9%aa%a5%e6%89%8d%ef%bc%89/video.m3u8"
+      },
+    {
+        "name": "合欢树（史铁生）",
+        "no": "008",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/008%e5%90%88%e6%ac%a2%e6%a0%91%ef%bc%88%e5%8f%b2%e9%93%81%e7%94%9f%ef%bc%89/%e5%88%87%e7%89%87/008%e5%90%88%e6%ac%a2%e6%a0%91%ef%bc%88%e5%8f%b2%e9%93%81%e7%94%9f%ef%bc%89/video.m3u8"
+      },
+    {
+        "name": "在马克思墓前的讲话（恩格斯）",
+        "no": "009",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/009%e5%9c%a8%e9%a9%ac%e5%85%8b%e6%80%9d%e5%a2%93%e5%89%8d%e7%9a%84%e8%ae%b2%e8%af%9d%ef%bc%88%e6%81%a9%e6%a0%bc%e6%96%af%ef%bc%89/%e5%88%87%e7%89%87/009%e5%9c%a8%e9%a9%ac%e5%85%8b%e6%80%9d%e5%a2%93%e5%89%8d%e7%9a%84%e8%ae%b2%e8%af%9d%ef%bc%88%e6%81%a9%e6%a0%bc%e6%96%af%ef%bc%89/video.m3u8"
+    },
+    {
+        "name": "拿来主义（鲁迅）",
+        "no": "010",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/010%e6%8b%bf%e6%9d%a5%e4%b8%bb%e4%b9%89%ef%bc%88%e9%b2%81%e8%bf%85%ef%bc%89/%e5%88%87%e7%89%87/010%e6%8b%bf%e6%9d%a5%e4%b8%bb%e4%b9%89%ef%bc%88%e9%b2%81%e8%bf%85%ef%bc%89/video.m3u8"
+    },
+    {
+        "name": "历史的回声——汴京包公湖情思（王大海）",
+        "no": "011",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/011%e5%8e%86%e5%8f%b2%e7%9a%84%e5%9b%9e%e5%a3%b0%e2%80%94%e2%80%94%e6%b1%b4%e4%ba%ac%e5%8c%85%e5%85%ac%e6%b9%96%e6%83%85%e6%80%9d%ef%bc%88%e7%8e%8b%e5%a4%a7%e6%b5%b7%ef%bc%89/%e5%88%87%e7%89%87/011%e5%8e%86%e5%8f%b2%e7%9a%84%e5%9b%9e%e5%a3%b0%e2%80%94%e2%80%94%e6%b1%b4%e4%ba%ac%e5%8c%85%e5%85%ac%e6%b9%96%e6%83%85%e6%80%9d%ef%bc%88%e7%8e%8b%e5%a4%a7%e6%b5%b7%ef%bc%89/video.m3u8"
+    },
+    {
+        "name": "请客（王力）",
+        "no": "012",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/012%e8%af%b7%e5%ae%a2%ef%bc%88%e7%8e%8b%e5%8a%9b%ef%bc%89/%e5%88%87%e7%89%87/012%e8%af%b7%e5%ae%a2%ef%bc%88%e7%8e%8b%e5%8a%9b%ef%bc%89/video.m3u8"
+    },
+    {
+        "name": "我国古代小说的发展及其规律（吴组缃）",
+        "no": "013",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/013%e6%88%91%e5%9b%bd%e5%8f%a4%e4%bb%a3%e5%b0%8f%e8%af%b4%e7%9a%84%e5%8f%91%e5%b1%95%e5%8f%8a%e5%85%b6%e8%a7%84%e5%be%8b%ef%bc%88%e5%90%b4%e7%bb%84%e7%bc%83%ef%bc%89/%e5%88%87%e7%89%87/013%e6%88%91%e5%9b%bd%e5%8f%a4%e4%bb%a3%e5%b0%8f%e8%af%b4%e7%9a%84%e5%8f%91%e5%b1%95%e5%8f%8a%e5%85%b6%e8%a7%84%e5%be%8b%ef%bc%88%e5%90%b4%e7%bb%84%e7%bc%83%ef%bc%89/video.m3u8"
+    },
+    {
+        "name": "重新创造的艺术天地（谢冕）",
+        "no": "14",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/014%e9%87%8d%e6%96%b0%e5%88%9b%e9%80%a0%e7%9a%84%e8%89%ba%e6%9c%af%e5%a4%a9%e5%9c%b0%ef%bc%88%e8%b0%a2%e5%86%95%ef%bc%89/%e5%88%87%e7%89%87/14%e9%87%8d%e6%96%b0%e5%88%9b%e9%80%a0%e7%9a%84%e8%89%ba%e6%9c%af%e5%a4%a9%e5%9c%b0%ef%bc%88%e8%b0%a2%e5%86%95%ef%bc%89/video.m3u8"
+    },
+    {
+        "name": "千篇一律与千变万化——音乐、绘画、建筑之间的通感（梁思成）",
+        "no": "15",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/015%e5%8d%83%e7%af%87%e4%b8%80%e5%be%8b%e4%b8%8e%e5%8d%83%e5%8f%98%e4%b8%87%e5%8c%96%e2%80%94%e2%80%94%e9%9f%b3%e4%b9%90%e3%80%81%e7%bb%98%e7%94%bb%e3%80%81%e5%bb%ba%e7%ad%91%e4%b9%8b%e9%97%b4%e7%9a%84%e9%80%9a%e6%84%9f%ef%bc%88%e6%a2%81%e6%80%9d%e6%88%90%ef%bc%89/%e5%88%87%e7%89%87/15%e5%8d%83%e7%af%87%e4%b8%80%e5%be%8b%e4%b8%8e%e5%8d%83%e5%8f%98%e4%b8%87%e5%8c%96%e2%80%94%e2%80%94%e9%9f%b3%e4%b9%90%e3%80%81%e7%bb%98%e7%94%bb%e3%80%81%e5%bb%ba%e7%ad%91%e4%b9%8b%e9%97%b4%e7%9a%84%e9%80%9a%e6%84%9f%ef%bc%88%e6%a2%81%e6%80%9d%e6%88%90%ef%bc%89/video.m3u8"
+    },
+    {
+        "name": "语言的演变（吕叔湘）",
+        "no": "16",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/016%e8%af%ad%e8%a8%80%e7%9a%84%e6%bc%94%e5%8f%98%ef%bc%88%e5%90%95%e5%8f%94%e6%b9%98%ef%bc%89/%e5%88%87%e7%89%87/16%e8%af%ad%e8%a8%80%e7%9a%84%e6%bc%94%e5%8f%98%ef%bc%88%e5%90%95%e5%8f%94%e6%b9%98%ef%bc%89/video.m3u8"
+    },
+    {
+        "name": "跨世纪的展望与思考（路甬祥）",
+        "no": "17",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/017%e8%b7%a8%e4%b8%96%e7%ba%aa%e7%9a%84%e5%b1%95%e6%9c%9b%e4%b8%8e%e6%80%9d%e8%80%83%ef%bc%88%e8%b7%af%e7%94%ac%e7%a5%a5%ef%bc%89/%e5%88%87%e7%89%87/17%e8%b7%a8%e4%b8%96%e7%ba%aa%e7%9a%84%e5%b1%95%e6%9c%9b%e4%b8%8e%e6%80%9d%e8%80%83%ef%bc%88%e8%b7%af%e7%94%ac%e7%a5%a5%ef%bc%89/video.m3u8"
+    },
+    {
+        "name": "走向21世纪的机器人（王磊）",
+        "no": "18",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/018%e8%b5%b0%e5%90%9121%e4%b8%96%e7%ba%aa%e7%9a%84%e6%9c%ba%e5%99%a8%e4%ba%ba%ef%bc%88%e7%8e%8b%e7%a3%8a%ef%bc%89/%e5%88%87%e7%89%87/18%e8%b5%b0%e5%90%9121%e4%b8%96%e7%ba%aa%e7%9a%84%e6%9c%ba%e5%99%a8%e4%ba%ba%ef%bc%88%e7%8e%8b%e7%a3%8a%ef%bc%89/video.m3u8"
+    },
+    {
+        "name": "神奇的极光（曹冲）",
+        "no": "19",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/019%e7%a5%9e%e5%a5%87%e7%9a%84%e6%9e%81%e5%85%89%ef%bc%88%e6%9b%b9%e5%86%b2%ef%bc%89/%e5%88%87%e7%89%87/19%e7%a5%9e%e5%a5%87%e7%9a%84%e6%9e%81%e5%85%89%ef%bc%88%e6%9b%b9%e5%86%b2%ef%bc%89/video.m3u8"
+    },
+    {
+        "name": "眼睛与仿生学（王谷岩）",
+        "no": "20",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/020%e7%9c%bc%e7%9d%9b%e4%b8%8e%e4%bb%bf%e7%94%9f%e5%ad%a6%ef%bc%88%e7%8e%8b%e8%b0%b7%e5%b2%a9%ef%bc%89/%e5%88%87%e7%89%87/20%e7%9c%bc%e7%9d%9b%e4%b8%8e%e4%bb%bf%e7%94%9f%e5%ad%a6%ef%bc%88%e7%8e%8b%e8%b0%b7%e5%b2%a9%ef%bc%89/video.m3u8"
+    },
+    {
+        "name": "动物游戏之谜（周立明）",
+        "no": "21",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/021%e5%8a%a8%e7%89%a9%e6%b8%b8%e6%88%8f%e4%b9%8b%e8%b0%9c%ef%bc%88%e5%91%a8%e7%ab%8b%e6%98%8e%ef%bc%89/%e5%88%87%e7%89%87/21%e5%8a%a8%e7%89%a9%e6%b8%b8%e6%88%8f%e4%b9%8b%e8%b0%9c%ef%bc%88%e5%91%a8%e7%ab%8b%e6%98%8e%ef%bc%89/video.m3u8"
+    },
+    {
+        "name": "景泰蓝的制作（叶圣陶）",
+        "no": "22",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/022%e6%99%af%e6%b3%b0%e8%93%9d%e7%9a%84%e5%88%b6%e4%bd%9c%ef%bc%88%e5%8f%b6%e5%9c%a3%e9%99%b6%ef%bc%89/%e5%88%87%e7%89%87/22%e6%99%af%e6%b3%b0%e8%93%9d%e7%9a%84%e5%88%b6%e4%bd%9c%ef%bc%88%e5%8f%b6%e5%9c%a3%e9%99%b6%ef%bc%89/video.m3u8"
+    },
+    {
+        "name": "作为生物的社会（刘易斯·托马斯）",
+        "no": "23",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/023%e4%bd%9c%e4%b8%ba%e7%94%9f%e7%89%a9%e7%9a%84%e7%a4%be%e4%bc%9a%ef%bc%88%e5%88%98%e6%98%93%e6%96%af%c2%b7%e6%89%98%e9%a9%ac%e6%96%af%ef%bc%89/%e5%88%87%e7%89%87/23%e4%bd%9c%e4%b8%ba%e7%94%9f%e7%89%a9%e7%9a%84%e7%a4%be%e4%bc%9a%ef%bc%88%e5%88%98%e6%98%93%e6%96%af%c2%b7%e6%89%98%e9%a9%ac%e6%96%af%ef%bc%89/video.m3u8"
+    },
+    {
+        "name": "海洋与生命（童裳亮）",
+        "no": "24",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/024%e6%b5%b7%e6%b4%8b%e4%b8%8e%e7%94%9f%e5%91%bd%ef%bc%88%e7%ab%a5%e8%a3%b3%e4%ba%ae%ef%bc%89/%e5%88%87%e7%89%87/24%e6%b5%b7%e6%b4%8b%e4%b8%8e%e7%94%9f%e5%91%bd%ef%bc%88%e7%ab%a5%e8%a3%b3%e4%ba%ae%ef%bc%89/video.m3u8"
+    },
+    {
+        "name": "药（鲁迅）",
+        "no": "25",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/025%e8%8d%af%ef%bc%88%e9%b2%81%e8%bf%85%ef%bc%89/%e5%88%87%e7%89%87/25%e8%8d%af%ef%bc%88%e9%b2%81%e8%bf%85%ef%bc%89/video.m3u8"
+    },
+    {
+        "name": "荷花淀（孙犁）",
+        "no": "26",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/026%e8%8d%b7%e8%8a%b1%e6%b7%80%ef%bc%88%e5%ad%99%e7%8a%81%ef%bc%89/%e5%88%87%e7%89%87/26%e8%8d%b7%e8%8a%b1%e6%b7%80%ef%bc%88%e5%ad%99%e7%8a%81%ef%bc%89/video.m3u8"
+    },
+    {
+        "name": "林教头风雪山神庙（施耐庵）",
+        "no": "27",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/027%e6%9e%97%e6%95%99%e5%a4%b4%e9%a3%8e%e9%9b%aa%e5%b1%b1%e7%a5%9e%e5%ba%99%ef%bc%88%e6%96%bd%e8%80%90%e5%ba%b5%ef%bc%89/%e5%88%87%e7%89%87/27%e6%9e%97%e6%95%99%e5%a4%b4%e9%a3%8e%e9%9b%aa%e5%b1%b1%e7%a5%9e%e5%ba%99%ef%bc%88%e6%96%bd%e8%80%90%e5%ba%b5%ef%bc%89/video.m3u8"
+    },
+    {
+        "name": "烛之武退秦师《左传》",
+        "no": "28",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/028%e7%83%9b%e4%b9%8b%e6%ad%a6%e9%80%80%e7%a7%a6%e5%b8%88%e3%80%8a%e5%b7%a6%e4%bc%a0%e3%80%8b/%e5%88%87%e7%89%87/28%e7%83%9b%e4%b9%8b%e6%ad%a6%e9%80%80%e7%a7%a6%e5%b8%88%e3%80%8a%e5%b7%a6%e4%bc%a0%e3%80%8b/video.m3u8"
+    },
+    {
+        "name": "邹忌讽齐王纳谏《战国策》",
+        "no": "29",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/029%e9%82%b9%e5%bf%8c%e8%ae%bd%e9%bd%90%e7%8e%8b%e7%ba%b3%e8%b0%8f%e3%80%8a%e6%88%98%e5%9b%bd%e7%ad%96%e3%80%8b/%e5%88%87%e7%89%87/29%e9%82%b9%e5%bf%8c%e8%ae%bd%e9%bd%90%e7%8e%8b%e7%ba%b3%e8%b0%8f%e3%80%8a%e6%88%98%e5%9b%bd%e7%ad%96%e3%80%8b/video.m3u8"
+    },
+    {
+        "name": "《孟子》二章（孟轲）",
+        "no": "30",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/030%e3%80%8a%e5%ad%9f%e5%ad%90%e3%80%8b%e4%ba%8c%e7%ab%a0%ef%bc%88%e5%ad%9f%e8%bd%b2%ef%bc%89/%e5%88%87%e7%89%87/30%e3%80%8a%e5%ad%9f%e5%ad%90%e3%80%8b%e4%ba%8c%e7%ab%a0%ef%bc%88%e5%ad%9f%e8%bd%b2%ef%bc%89/video.m3u8"
+    },
+    {
+        "name": "劝学（节选）荀况",
+        "no": "31",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/031%e5%8a%9d%e5%ad%a6%ef%bc%88%e8%8a%82%e9%80%89%ef%bc%89%e8%8d%80%e5%86%b5/%e5%88%87%e7%89%87/31%e5%8a%9d%e5%ad%a6%ef%bc%88%e8%8a%82%e9%80%89%ef%bc%89%e8%8d%80%e5%86%b5/video.m3u8"
+    },
+    {
+        "name": "廉颇蔺相如列传（司马迁）",
+        "no": "32",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/032%e5%bb%89%e9%a2%87%e8%94%ba%e7%9b%b8%e5%a6%82%e5%88%97%e4%bc%a0%ef%bc%88%e5%8f%b8%e9%a9%ac%e8%bf%81%ef%bc%89/%e5%88%87%e7%89%87/32%e5%bb%89%e9%a2%87%e8%94%ba%e7%9b%b8%e5%a6%82%e5%88%97%e4%bc%a0%ef%bc%88%e5%8f%b8%e9%a9%ac%e8%bf%81%ef%bc%89/video.m3u8"
+    },
+    {
+        "name": "师说（韩愈）",
+        "no": "33",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/033%e5%b8%88%e8%af%b4%ef%bc%88%e9%9f%a9%e6%84%88%ef%bc%89/%e5%88%87%e7%89%87/33%e5%b8%88%e8%af%b4%ef%bc%88%e9%9f%a9%e6%84%88%ef%bc%89/video.m3u8"
+    },
+    {
+        "name": "石钟山记（苏轼）",
+        "no": "34",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/034%e7%9f%b3%e9%92%9f%e5%b1%b1%e8%ae%b0%ef%bc%88%e8%8b%8f%e8%bd%bc%ef%bc%89/%e5%88%87%e7%89%87/34%e7%9f%b3%e9%92%9f%e5%b1%b1%e8%ae%b0%ef%bc%88%e8%8b%8f%e8%bd%bc%ef%bc%89/video.m3u8"
+    },
+    {
+        "name": "岳阳楼记（范仲淹）",
+        "no": "35",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/035%e5%b2%b3%e9%98%b3%e6%a5%bc%e8%ae%b0%ef%bc%88%e8%8c%83%e4%bb%b2%e6%b7%b9%ef%bc%89/%e5%88%87%e7%89%87/35%e5%b2%b3%e9%98%b3%e6%a5%bc%e8%ae%b0%ef%bc%88%e8%8c%83%e4%bb%b2%e6%b7%b9%ef%bc%89/video.m3u8"
+    },
+    {
+        "name": "过故人庄（孟浩然）",
+        "no": "36",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/036%e8%bf%87%e6%95%85%e4%ba%ba%e5%ba%84%ef%bc%88%e5%ad%9f%e6%b5%a9%e7%84%b6%ef%bc%89/%e5%88%87%e7%89%87/36%e8%bf%87%e6%95%85%e4%ba%ba%e5%ba%84%ef%bc%88%e5%ad%9f%e6%b5%a9%e7%84%b6%ef%bc%89/video.m3u8"
+    },
+    {
+        "name": "山居秋暝（王维）",
+        "no": "37",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/037%e5%b1%b1%e5%b1%85%e7%a7%8b%e6%9a%9d%ef%bc%88%e7%8e%8b%e7%bb%b4%ef%bc%89/%e5%88%87%e7%89%87/37%e5%b1%b1%e5%b1%85%e7%a7%8b%e6%9a%9d%ef%bc%88%e7%8e%8b%e7%bb%b4%ef%bc%89/video.m3u8"
+    },
+    {
+        "name": "登金陵凤凰台（李白）",
+        "no": "38",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/038%e7%99%bb%e9%87%91%e9%99%b5%e5%87%a4%e5%87%b0%e5%8f%b0%ef%bc%88%e6%9d%8e%e7%99%bd%ef%bc%89/%e5%88%87%e7%89%87/38%e7%99%bb%e9%87%91%e9%99%b5%e5%87%a4%e5%87%b0%e5%8f%b0%ef%bc%88%e6%9d%8e%e7%99%bd%ef%bc%89/video.m3u8"
+    },
+    {
+        "name": "登高（杜甫）",
+        "no": "39",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/039%e7%99%bb%e9%ab%98%ef%bc%88%e6%9d%9c%e7%94%ab%ef%bc%89/%e5%88%87%e7%89%87/39%e7%99%bb%e9%ab%98%ef%bc%88%e6%9d%9c%e7%94%ab%ef%bc%89/video.m3u8"
+    },
+    {
+        "name": "蜀道难（李白）",
+        "no": "40",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/040%e8%9c%80%e9%81%93%e9%9a%be%ef%bc%88%e6%9d%8e%e7%99%bd%ef%bc%89/%e5%88%87%e7%89%87/40%e8%9c%80%e9%81%93%e9%9a%be%ef%bc%88%e6%9d%8e%e7%99%bd%ef%bc%89/video.m3u8"
+    },
+    {
+        "name": "兵车行（杜甫）",
+        "no": "41",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/041%e5%85%b5%e8%bd%a6%e8%a1%8c%ef%bc%88%e6%9d%9c%e7%94%ab%ef%bc%89/%e5%88%87%e7%89%87/%e7%9f%a5%e8%af%86%e7%82%b941/video.m3u8"
+    },
+    {
+        "name": "琵琶行（并序）白居易",
+        "no": "42",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/042%e7%90%b5%e7%90%b6%e8%a1%8c%ef%bc%88%e5%b9%b6%e5%ba%8f%ef%bc%89%e7%99%bd%e5%b1%85%e6%98%93/%e5%88%87%e7%89%87/%e7%9f%a5%e8%af%86%e7%82%b942/video.m3u8"
+    },
+    {
+        "name": "虞美人（李煜）",
+        "no": "43",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/043%e8%99%9e%e7%be%8e%e4%ba%ba%ef%bc%88%e6%9d%8e%e7%85%9c%ef%bc%89/%e5%88%87%e7%89%87/%e7%9f%a5%e8%af%86%e7%82%b943/video.m3u8"
+    },
+    {
+        "name": "念奴娇·赤壁怀古（苏轼）",
+        "no": "44",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/044%e5%bf%b5%e5%a5%b4%e5%a8%87%c2%b7%e8%b5%a4%e5%a3%81%e6%80%80%e5%8f%a4%ef%bc%88%e8%8b%8f%e8%bd%bc%ef%bc%89/%e5%88%87%e7%89%87/%e7%9f%a5%e8%af%86%e7%82%b944/video.m3u8"
+    },
+    {
+        "name": "永遇乐·京口北固亭怀古（辛弃疾）",
+        "no": "45",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/045%e6%b0%b8%e9%81%87%e4%b9%90%c2%b7%e4%ba%ac%e5%8f%a3%e5%8c%97%e5%9b%ba%e4%ba%ad%e6%80%80%e5%8f%a4%ef%bc%88%e8%be%9b%e5%bc%83%e7%96%be%ef%bc%89/%e5%88%87%e7%89%87/%e7%9f%a5%e8%af%86%e7%82%b945/video.m3u8"
+    },
+    {
+        "name": "字音、字形、成语、病句、修辞等",
+        "no": "46",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/046%e5%ad%97%e9%9f%b3%e3%80%81%e5%ad%97%e5%bd%a2%e3%80%81%e6%88%90%e8%af%ad%e3%80%81%e7%97%85%e5%8f%a5%e3%80%81%e4%bf%ae%e8%be%9e%e7%ad%89/%e5%88%87%e7%89%87/%e7%9f%a5%e8%af%86%e7%82%b946/video.m3u8"
+    },
+    {
+        "name": "词句、表达方法、概况、思想内容等",
+        "no": "47",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/047%e8%af%8d%e5%8f%a5%e3%80%81%e8%a1%a8%e8%be%be%e6%96%b9%e6%b3%95%e3%80%81%e6%a6%82%e5%86%b5%e3%80%81%e6%80%9d%e6%83%b3%e5%86%85%e5%ae%b9%e7%ad%89/%e5%88%87%e7%89%87/%e7%9f%a5%e8%af%86%e7%82%b947/video.m3u8"
+    },
+    {
+        "name": "文言文、诗歌等",
+        "no": "48",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/048%e6%96%87%e8%a8%80%e6%96%87%e3%80%81%e8%af%97%e6%ad%8c%e7%ad%89/%e5%88%87%e7%89%87/%e7%9f%a5%e8%af%86%e7%82%b948/video.m3u8"
+    },
+    {
+        "name": "作文特点、应试作文特征等",
+        "no": "49",
+        "type": "video",
+        "url": "http://rspcourse.chinaedu.net/00701/012273_20190719_3/27635DD0A77A4941A8E36BB6C24B5876/res/3course!!%e8%a7%86%e9%a2%91%e8%ae%b2%e8%a7%a3/049%e4%bd%9c%e6%96%87%e7%89%b9%e7%82%b9%e3%80%81%e5%ba%94%e8%af%95%e4%bd%9c%e6%96%87%e7%89%b9%e5%be%81%e7%ad%89/%e5%88%87%e7%89%87/%e7%9f%a5%e8%af%86%e7%82%b949/video.m3u8"
+    }
+  ],
+  "version": "2019-07-18 18:12:15"
+}
