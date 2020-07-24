@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "art-template": "^4.12.1",
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "busboy": "^0.2.14",
     "co-body": "^5.1.1",
     "crypto": "0.0.3",
