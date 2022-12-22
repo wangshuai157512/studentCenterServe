@@ -18,7 +18,7 @@
     "debug": "^2.6.3",
     "excel-export": "^0.5.1",
     "fundebug-nodejs": "^0.1.0",
-    "jsonwebtoken": "^8.5.0",
+    "jsonwebtoken": "^9.0.0",
     "jssha": "^1.5.0",
     "koa": "^2.2.0",
     "koa-art-template": "^1.1.1",
